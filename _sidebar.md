@@ -1,5 +1,5 @@
 - [**TrixMC Website**](https://trix.tk)
 - [**DaryNodes** (TrixMC Sponsor)](https://darynodes.in)
 - [Home](/)
-- [Derpitcraft](Derpitcraft/ "Derpitcraft")
+- [Derpitcraft](Derpitcraft/ "Derpitcraft Season 9")
 - [SkyBlock](SkyBlock/ "SkyBlock")
