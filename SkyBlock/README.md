@@ -146,7 +146,7 @@ A list of island types shall be added in the near future.
 
 ## Money
 
-As you progress, you will need to use money and make transactions. Money is stored in one of two places: wallet or bank. You can see the balance of both on the right hand side of your screen.
+As you progress, you will need to use money and make transactions. Money is stored in one of two places: the **wallet** or the **bank**. You can see the balance in both on the right hand side of your screen.
 
 ### Interest
 
