@@ -154,7 +154,7 @@ For money stored in your bank, you recieve an interest. The interest is credited
 
 ## Challenges
 
-Challenges let you complete various tasks and recieve rewards. These rewards are in the form of items and experience. These items are useful in your journey to beat the gamemode. You can check your challenges using the command [`/is challenges`](#challenges).
+Challenges let you complete various tasks and receive rewards. These rewards are in the form of items and experience. These items are useful in your journey to make progress in the gamemode. You can check your challenges using the command [`/is challenges`](#challenges).
 
 ### List of Challenges
 
