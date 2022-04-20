@@ -4,7 +4,9 @@
 
 ## Introduction
 
-**Skyblock** is one of the most popular survival gamemodes. The idea is that you can create and expand your very own world infinitely with only minimal materials. You start on a small island floating in the middle of void with a few items and a single tree and you must learn to use and preserve your materials wisely as each one has a strategic use, (for example lava buckets), and to know the basics of Minecraft in order to complete challenges and to expand. It is normal to make beginner mistakes, sometimes requiring many restarts.
+**Skyblock** is one of the most popular survival gamemodes. The gamemode is about creating and expanding your very own world infinitely with only minimal materials. You start on a small island floating in the middle of void with a few basic items and a single tree. You  must survive and expand this island. You must learn to use and preserve your materials wisely, since each material has a strategic use, and wasting any of them could be disastrous. For example, lava buckets have a *very* important use! You need to also know the basics of Minecraft in order to complete challenges and expand. 
+
+It is normal to make mistakes, that may even require restarts, when you just start playing.
 
 ## Commands
 
