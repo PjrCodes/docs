@@ -1,4 +1,7 @@
 # Derpitcraft Season 9: Rules and Guidelines
+
+![](ds9banner.png "Derpitcraft Season 9 banner")
+
 ---
 ## A brief introduction and some important details
 
