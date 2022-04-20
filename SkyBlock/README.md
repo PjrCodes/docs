@@ -10,79 +10,79 @@
 
 On TrixMC we have a set of commands that you can use to manage your SkyBlock world. The commands are of the format `/is <command>`. The commands are listed below:
 
-### controlpanel
+### `controlpanel`
 
 `/is controlpanel` is an all-in-one command that opens a GUI that allows you to manage your TrixMC SkyBlock world.
 
-### ban
+### `ban`
 
 `/is ban <player>` is used to ban a player from your Island.
 
-### banlist
+### `banlist`
 
 `/is banlist` is used to list all players banned from your island.
 
-### biomes
+### `biomes`
 
 `/is biomes` is used to buy and set the biome for your island. More info about biomes can be found in [Biomes](#biomes-1).
 
-### challenges
+### `challenges`
 
 `/is challenges` is used to view the challenges. More info about challenges can be found in [Challenges](#challenges-1).
 
-### create
+### `create`
 
 `/is create` is used to create your island.
 
-### fly
+### `fly`
 
 `/is fly` is used to toggle flying on your island. More info about fly can be found in [Fly](#fly-1).
 
-### generator
+### `generator`
 
 `/is generator` is used to buy and upgrade your cobblestone generator. More info about generator can be found in [Generator](#generator-1).
 
-### go
+### `go`
 
 `/is go` is used to teleport to your island.
 
-### info
+### `info`
 
 `/is info` is used to view island information.
 
-### language
+### `language`
 
 `/is language` is used to change the language.
 
-### level
+### `level`
 
 `/is level <player>` is used to calculate your island level or mentioned player's level.
 
-### reset
+### `reset`
 
 `/is reset` is used to reset your island. WARNING: ALL PROGRESS WILL BE LOST IF YOU USE THIS COMMAND.
 
-### sethome
+### `sethome`
 
 `/is sethome` is used to set your home teleport point.
 
-### setname
+### `setname`
 
 `/is setname` is used to set the name of your island.
 
-### settings
+### `settings`
 
 `/is settings` is used to view and change your island settings. More info about settings can be found in [Settings](#settings-1).
 
-### resetname
+### `resetname`
 
 `/is resetname` is used to reset the name of your island.
 
-### unban
+### `unban`
 
 `/is unban <player>` is used to unban a player from your Island.
 
-### team
+### `team`
 
 1. `/is team` is used to manage your team.
 2. `/is team accept` is used to accept a team invite.
@@ -99,19 +99,19 @@ On TrixMC we have a set of commands that you can use to manage your SkyBlock wor
 
 Learn more about teams in [Teams](#Teams).
 
-### top
+### `top`
 
 `/is top` is used to show the top ten islands on TrixMC SkyBlock.
 
-### warp
+### `warp`
 
 `/is warp <player>` is used to warp to a player's island.
 
-### warps
+### `warps`
 
 `/is warps` is used to list all available warps on TrixMC SkyBlock. More info on warps can be found in [Warps](#Warps-1).
 
-### bank
+### `bank`
 
 `/is bank deposit <amount>` is used to deposit money into your island bank from your wallet.
 `/is bank withdraw <amount>` is used to withdraw money into your island bank from your wallet.
@@ -120,17 +120,17 @@ Learn more about teams in [Teams](#Teams).
 
 More info on money and bank can be found in [Money](#Money).
 
-### balance
+### `balance`
 
 `/balance` is used to check your wallet balance.
 
 More info on money and bank can be found in [Money](#Money).
 
-### chat
+### `chat`
 
 `/is chat` is used to toggle island chat on and off. This allows you to communicate with ONLY your teammates.
 
-### teamchat
+### `teamchat`
 
 `/is teamchat` is used to toggle team chat. This allows you to communicate with ONLY those in your team.
 
