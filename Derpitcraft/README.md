@@ -77,26 +77,26 @@ There might be a few compatibility issues with the server, since we support both
 1.  **Discord enhancements**: Multiple features have been added to discord. You can see images send in live chat in-game (on a map), see attachments as clickable links, and show your inventory on Discord by typing `[inv]` in the in-game chat. Along with this, we have added `/ender` and `/inv` slash commands on discord to show your inventory/ ender chest. Read the how to guide for more information on how to use these.<br><br>
 2. **Datapacks and Plugins**: Derpitcraft has a few quality of life datapacks (VanillaTweaks) and moderation plugins. These fit into your vanilla experience seamlessly. A list of relevant ones is given below. The How To guides contain information on how to use these.
    <br>
-    1. AFK Display (Turns your name gray and adds "AFK" suffix if you are inactive). Read more about the `/afk` command, and the AFK System in the How To Guides. 
-    2. Armor statues (see https://www.youtube.com/watch?v=nV9-_RacnoI).
-    3. Custom-sized nether portals.
-    4. 2x shulker shell drop on killing them.
-    5. Ping when durability of item goes low (customizable and can be disabled, see https://www.youtube.com/watch?v=JYHXWmtgmIw).
-    6. Faster leaf decay after you chop logs.
-    7. Mob's and Player's drop heads.
-    8. You can silence mobs by naming them `silence me`.
-    9. You see when and where villager's die on the server.
-    10. All recipes are unlocked by default.
-    11. **Crafting Tweaks**:
-        1. You can craft stairs/ slabs back to blocks. 
-        2. You can craft single blocks into slabs. 
-        3. You can craft droppers to dispensers. 
-        4. You can dye sandstone and universally dye blocks. 
-        5. You can make shulkers in any shape. 
-        6. Blackstone can be used everywhere cobblestone is used in crafting recipies. 
-        7. You get more trapdoors, bark, stairs and bricks upon crafting. 
-        8. You can unpack ice, nether wart blocks and wool.
-    12. Several other custom commands have been added. These are all listed in the How To Guides
+    1. AFK Display (Turns your name gray and adds "AFK" suffix if you are inactive). Read more about the `/afk` command, and the AFK System in the How To Guides.  
+    2. Armor statues (see https://www.youtube.com/watch?v=nV9-_RacnoI).  
+    3. Custom-sized nether portals.  
+    4. 2x shulker shell drop on killing them.  
+    5. Ping when durability of item goes low (customizable and can be disabled, see https://www.youtube.com/watch?v=JYHXWmtgmIw).  
+    6. Faster leaf decay after you chop logs.  
+    7. Mob's and Player's drop heads.  
+    8. You can silence mobs by naming them `silence me`.  
+    9. You see when and where villager's die on the server.  
+    10. All recipes are unlocked by default.  
+    11. **Crafting Tweaks**:  
+        1. You can craft stairs/ slabs back to blocks.  
+        2. You can craft single blocks into slabs.   
+        3. You can craft droppers to dispensers.   
+        4. You can dye sandstone and universally dye blocks.   
+        5. You can make shulkers in any shape.   
+        6. Blackstone can be used everywhere cobblestone is used in crafting recipies.   
+        7. You get more trapdoors, bark, stairs and bricks upon crafting.   
+        8. You can unpack ice, nether wart blocks and wool.  
+    12. Several other custom commands have been added. These are all listed in the How To Guides  
 
 ---
 ## How to guides
