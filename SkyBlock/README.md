@@ -150,7 +150,7 @@ As you progress, you will need to use money and make transactions. Money is stor
 
 ### Interest
 
-For money stored in your bank, you recieve an interest. The interest is credited every hour you are online. The rate of interest is not revealed and keeps changing.
+For money stored in your bank, you recieve an interest. The interest is credited for every hour you are online. The rate of interest is not revealed and keeps changing.
 
 ## Challenges
 
