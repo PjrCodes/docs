@@ -14,11 +14,11 @@ You can play Derpitcraft by registering for it: Use `/dcregister` in any discord
 
 #### Version support
 
-Minecraft **Bedrock Edition** `1.18.0 - 1.18.10` and Minecraft **Java Edition** `1.18.x`.
+Minecraft **Bedrock Edition** `1.19.0` and Minecraft **Java Edition** `1.19.x`.
 
 #### How to join
 
-Run `$ip` on our discord to find the IPs for both bedrock and java. Join **TrixMC** using the IP. **Right-click** the **Derpitcraft Season 9** NPC to join (If you are on mobile, you can tap and hold the NPC.). You can join the SMP after **April 20th 2022**.
+Run `$ip` on our discord to find the IPs for both bedrock and java. Join **TrixMC** using the IP. **Right-click** the **Derpitcraft Season 9** NPC to join (If you are on mobile, you can tap and hold the NPC.).
 
 #### Spawn coordinates
 
