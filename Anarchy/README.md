@@ -1,5 +1,8 @@
 # TrixMC Anarchy
 
+
+![](TrixmcAnarchy.png "TrixMC Anarchy logo")
+
 ---
 
 ## Introduction
