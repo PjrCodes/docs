@@ -1,6 +1,8 @@
 - [**TrixMC Website**](https://trix.tk)
+
 - [**DaryNodes** (TrixMC Sponsor)](https://darynodes.in)
+
 - [Home](/)
-- [Anarchy](Anarchy/ "Anarchy")
-- [Derpitcraft](Derpitcraft/ "Derpitcraft Season 9")
-- [SkyBlock](SkyBlock/ "SkyBlock")
+- [Anarchy](Anarchy/README.md)
+- [Derpitcraft](Derpitcraft/README.md)
+- [Skyblock](SkyBlock/README.md)
