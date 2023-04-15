@@ -2,6 +2,8 @@
 
 ![](Skyblock_Island.webp "SkyBlock Island")
 
+# Skyblock is currently between seasons, see you next season!
+
 ## Introduction
 
 **Skyblock** is one of the most popular survival gamemodes. The gamemode is about creating and expanding your very own world infinitely with only minimal materials. You start on a small island floating in the middle of void with a few basic items and a single tree. You  must survive and expand this island. You must learn to use and preserve your materials wisely, since each material has a strategic use, and wasting any of them could be disastrous. For example, lava buckets have a *very* important use! You need to also know the basics of Minecraft in order to complete challenges and expand. 
