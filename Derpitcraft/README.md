@@ -1,3 +1,5 @@
+# Derpitcraft is currently in between seasons. See you next season!
+
 # Derpitcraft Season 9: Rules and Guidelines
 
 ![](ds9banner.png "Derpitcraft Season 9 banner")
