@@ -2,8 +2,6 @@
 
 ![](Skyblock_Island.webp "SkyBlock Island")
 
-# Skyblock is currently between seasons, see you next season!
-
 ## Introduction
 
 **Skyblock** is one of the most popular survival gamemodes. The gamemode is about creating and expanding your very own world infinitely with only minimal materials. You start on a small island floating in the middle of void with a few basic items and a single tree. You  must survive and expand this island. You must learn to use and preserve your materials wisely, since each material has a strategic use, and wasting any of them could be disastrous. For example, lava buckets have a *very* important use! You need to also know the basics of Minecraft in order to complete challenges and expand. 
@@ -26,29 +24,26 @@ On TrixMC we have a set of commands that you can use to manage your SkyBlock wor
 
 `/is banlist` is used to list all players banned from your island.
 
-### `biomes`
-
-`/is biomes` is used to buy and set the biome for your island. More info about biomes can be found in [Biomes](#biomes-1).
 
 ### `challenges`
 
-`/is challenges` is used to view the challenges. More info about challenges can be found in [Challenges](#challenges-1).
+`/is challenges [level]` is used to view the challenges. More info about challenges can be found in [Challenges](#challenges-1).
 
 ### `create`
 
 `/is create` is used to create your island.
 
-### `fly`
+### `go`
 
-`/is fly` is used to toggle flying on your island. More info about fly can be found in [Fly](#fly-1).
+`/is go [home name]` is used to go back to your island home.
+
+### `info`
+
+`/is info` is used to get information about your island.
 
 ### `generator`
 
 `/is generator` is used to buy and upgrade your cobblestone generator. More info about generator can be found in [Generator](#generator-1).
-
-### `go`
-
-`/is go` is used to teleport to your island.
 
 ### `info`
 
@@ -77,6 +72,10 @@ On TrixMC we have a set of commands that you can use to manage your SkyBlock wor
 ### `settings`
 
 `/is settings` is used to view and change your island settings. More info about settings can be found in [Settings](#settings-1).
+
+### `spawn`
+
+`/is spawn` is used to go back to the spawn.
 
 ### `resetname`
 
@@ -138,6 +137,10 @@ More info on money and bank can be found in [Money](#Money).
 
 `/is teamchat` is used to toggle team chat. This allows you to communicate with ONLY those in your team.
 
+### `greenhouses`
+
+`/is greenhouses` is used to create and manage greenhouses. More info on greenhouses can be found in [Greenhouses](#Greenhouses-1).
+
 ## Island Types
 
 There are many different types of islands you can choose from while creating an island on TrixMC SkyBlock.
@@ -148,11 +151,7 @@ A list of island types shall be added in the near future.
 
 ## Money
 
-As you progress, you will need to use money and make transactions. Money is stored in one of two places: the **wallet** or the **bank**. You can see the balance in both on the right hand side of your screen.
-
-### Interest
-
-For money stored in your bank, you recieve an interest. The interest is credited for every hour you are online. The rate of interest is not revealed and keeps changing.
+As you progress, you will need to use money and make transactions. You can see the balance in both on the right hand side of your screen.
 
 ## Challenges
 
@@ -166,21 +165,11 @@ This list shall be added in the near future.
 
 Settings allow you to customize your island. You can view and change your settings using the command [`/is settings`](#settings).
 
-There are currently 59 Protection Settings, 6 General Settings and 17 SkyBlock Island Settings that can be applied to the SkyBlock Island. Each of which ENABLE or DISABLE access to one or more types of players: Visitor, Coop, Trusted, Member, Sub-Owner and Owners for that island.
-
 ### List of settings
 
 <!-- The below table was copy pasted from the BentoBox wiki -->
 
 <table width="100%" align="center"> <tbody><tr> <td align="left" valign="top"><b>Settings</b></td> <td align="left"><b>Flags to enable or disable</b></td> </tr> <tr> <td align="left" valign="top">Protection Settings</td> <td align="left">Animal riding, Anvils, Armor stands, Beacons, Beds, Break blocks, Breed animals, Brewing stands, Buckets, Buttons, Chorus fruits, Collect lava, Collect water, Egg throwing, Enchanting Table, End Portal, EnderPearls, Experience pickup, Fire, Fire extinguish, Fish scooping, Frost walker, Furnace, Gates, Hurt animals, Hurt monsters, Hurt villagers, Item drop, Item pickup, Jukebox use, Leash use, Lever use, Lock island, Milking, Mount inventory, Name tags, Nether Portal, Note block, Place blocks, Pressure Plates, Redstone items, Shearing, Spawn eggs, Next Page (sign), TNT damage, Trample crops, Trap doors, Turtle Eggs, Use doors, Villager trading, Workbenches, Use containers, Use dispensers, Use droppers, Use hoppers, Use Item Frames, Throw Potions, Previous Page (sign)</td> </tr> <tr> <td align="left" valign="top">General Settings</td> <td align="left">Animal spawning, End PVP, Fire spread, Monster spawning, Nether PVP, Overworld PVP</td> </tr> <tr> <td align="left" valign="top">BSkyBlock Settings</td> <td align="left">Chest damage, Clean Super Flat, Coarse dirt tilling, Creeper damage, Creeper griefing, Ender Chests, Enderman griefing, Enter/Exit messages, Island respawn, Offline Redstone, Piston Push, Remove monsters, Obsidian Scooping, Feather Fall Teleporting, Command Ranks, Invincible Visitors, Limit mobs to island</td> </tr> </tbody></table>
-
-## Fly
-
-You can fly inside your island on TrixMC SkyBlock using the [`/is fly`](#fly) command.
-
-### Timeout
-
-If you leave your island, your fly will timeout after 5 seconds. This is also the case when you visit other's islands.
 
 ## Teams
 
@@ -194,40 +183,27 @@ Teams are a way for multiple players to collaborate on a single island. team com
 4. Sub-Owner
 5. Owners
 
-## Biomes
+## Greenhouses
 
-**Biomes** allow the user to change the biome on their island.
+Greenhouses are made out of glass and must contain the blocks found in the Biome Recipe to be valid. There is a recipe GUI accessed using `/is greenhouses`. Once built, the greenhouse can be used to grow plants with bonemeal, and it may spawn biome-specific mobs. If you include a hopper with water in it, snow will form inside the greenhouse when it rains. If you put bonemeal in the hopper, biome-specific plants will grow. Some blocks can also transform over time due to "erosion".
 
-You need to buy biomes using the [`/is biomes`](#biomes) command. You can then apply the biome on the same menu.
+### How to make one?
 
-### Working
 
-Choose a biome form the list. Choose how large area is affected and apply it. After that, in the area, the biome is changed. But due to the minecraft structure, it is possible, that players need to unload the area (easiest, go to other's island, and then come back), for seeing the effect.
+1. Make glass blocks and build a rectangular set of walls with a flat roof.
+2. Put a hopper in the wall or roof.
+3. Put a door in the wall, so you can get in and out.
+4. Type `/island greenhouses` and read the rules for the greenhouse you want.
+5. Exit the GUI and place blocks, water, lava, and ice so that you make your desired biome.
+6. Type `/island greenhouses` again and click on the biome to make it.
+7. Type `/island greenhouses` help to see other options.
 
-### Available biomes
+### How to use it?
 
-These are the available biomes on TrixMC SkyBlock:
-
-1. [**Deep Ocean**](https://minecraft.fandom.com/wiki/Ocean#Deep_Ocean) Unlocked at level 1. Costs $500.
-2. [**Warm Ocean**](https://minecraft.fandom.com/wiki/Ocean#Warm_Ocean) Unlocked at level 10. Costs $500
-3. [**Frozen Ocean**](https://minecraft.fandom.com/wiki/Ocean#Frozen_Ocean) Unlocked at level 20. Costs $500
-4. [**Lush Caves**](https://minecraft.fandom.com/wiki/Lush_Caves) Unlocked at level 50. Costs $500
-5. [**Plains**](https://minecraft.fandom.com/wiki/Plains) Unlocked at level 1. Costs $100
-6. [**Taiga**](https://minecraft.fandom.com/wiki/Taiga) Unlocked at level 1. Costs $100
-7. [**Snowy Taiga**](https://minecraft.fandom.com/wiki/Snowy_Taiga) Unlocked at level 50. Costs $500
-8. [**Snowy Slopes**](https://minecraft-archive.fandom.com/wiki/Snowy_Slopes) Unlocked at level 75. Costs $1000
-9. [**Savannah Plateau**](https://minecraft.fandom.com/wiki/Savanna#Savanna_Plateau) Unlocked at level 50. Costs $200
-10. [**Mushroom Fields**](https://minecraft.fandom.com/wiki/Mushroom_Fields) Unlocked at level 150. Costs $4000
-11. [**Jungle**](https://minecraft.fandom.com/wiki/Jungle) Unlocked at level 50. Costs $200
-12. [**Beach**](https://minecraft.fandom.com/wiki/Beach) Unlocked at level 25. Costs $200
-13. [**Desert**](https://minecraft.fandom.com/wiki/Desert) Unlocked at level 25. Costs $500
-14. [**Flower Forest**](https://minecraft.fandom.com/wiki/Forest#Flower_Forest) Unlocked at level 75. Costs $500
-15. [**Swamp**](https://minecraft.fandom.com/wiki/Swamp) Unlocked at level 75. Costs $500
-16. [**Nether Wastes**](https://minecraft.fandom.com/wiki/Nether_Wastes) Unlocked at level 250. Costs $1000
-17. [**Basalt Delta**](https://minecraft.fandom.com/wiki/Basalt_Delta) Unlocked at level 250. Costs $1000
-18. [**Soul Sand Valley**](https://minecraft.fandom.com/wiki/Soul_Sand_Valley) Unlocked at level 250. Costs $1000
-19. [**Crimson Forest**](https://minecraft.fandom.com/wiki/Crimson_Forest) Unlocked at level 250. Costs $1000
-20. [**Warped Forest**](https://minecraft.fandom.com/wiki/Warped_Forest) Unlocked at level 250. Costs $1000
+- Use bonemeal to grow small plants on grass blocks immediately in the greenhouse.
+- Or place bonemeal in the hopper to have the greenhouse sprinkle bonemeal automatically. Come back later to see what grows!
+- Place a bucket of water (or more) in the hopper to cause snow to fall in cold biomes. Snow will fall when it rains in the world. Each snowfall empties one bucket of water.
+- Friendly biome-specific mobs may spawn in your greenhouse - the usual rules apply (be more than 24 blocks away).
 
 ## Generator
 
@@ -327,17 +303,6 @@ The cobblestone generator is a way to generate cobblestone on your island. This 
    - Warped Nylium
    - Crimson Nylium
 
-## Dimensional Trees
-
-When a `jungle sapling` is grown in the nether or end, it generates a special kind of tree.
-
-### nether
-
-In the nether leaves are replaced by `Glowstone` and the bark is replaced by `gravel`.
-
-### end
-
-In the End leaves are replaced by `end_stone` and the bark is replaced by `purpur_block`.
 
 ## Mob spawning
 
