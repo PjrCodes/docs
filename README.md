@@ -12,7 +12,7 @@ TrixMC is a fast, modern Minecraft Network that provides a high class gameplay e
 
 - [TrixMC Anarchy](Anarchy/ "Anarchy") - vanilla, no cheats, safe, anarchy server
 
-- [SkyBlock (Season 5)](SkyBlock/ "SkyBlock") **(Currently unavailable)** - A close-to-home SkyBlock experience but with teaming, banking and challenges.
+- [SkyBlock (Season 6)](SkyBlock/ "SkyBlock") - A close-to-home SkyBlock experience but with teaming, banking and challenges.
   
 - [Derpitcraft (Season 9)](Derpitcraft/ "Derpitcraft") **(Currently unavailable)** - Our flagship gamemode, the best vanilla-like SMP with advanced moderation, tight discord integration, a robust teaming system and much more to provide the best experience possible.
  
